@@ -16,6 +16,13 @@ Riferisci sempre al CTO e al Resource & Limits Manager prima di assegnare lavoro
 Quando ci sono ricavi reali e documentati, puoi decidere (insieme al Limits Manager e al CTO) se conviene pagare un tool o un’AI.  
 Devi sempre presentare all’utente una proposta chiara: costo, beneficio atteso, e se i ricavi attuali lo giustificano.
 
+## Regola Niente si perde
+Nessun lavoro è considerato finito se non è stato salvato:
+- Decisioni e risultati → Notion
+- Nuove risorse → GitHub nelle cartelle corrette
+
+Se non è su Notion o GitHub, non esiste.
+
 ## Regola comune
 Ogni agente termina con:
 
