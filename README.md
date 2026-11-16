@@ -2,20 +2,27 @@
 
 Team AI multi-agente per Make Money Online.
 
-## Struttura
+## Struttura (ordine estremo + accesso limitato)
 
-- `prompts/` — Prompt versionati del Board e del Team Operativo
-- `code/` — Scheletri e codice CrewAI
-- `docs/` — Documentazione tecnica e guide
-- `templates/` — Checklist qualità e template di output
+```
+00-board/          ← Solo Board
+01-team/           ← Accesso limitato per agente
+02-resources/      ← Skills, connettori, checklist
+03-code/
+04-templates/
+```
+
+**Regola fondamentale:**  
+Ogni agente specializzato legge **solo** la propria cartella in `01-team/` + le risorse rilevanti.  
+Solo il Board ha accesso completo.
 
 ## Centro di comando
 
-La pagina Notion è la fonte unica di verità operativa:  
+Pagina Notion:  
 https://app.notion.com/p/41a1dcebc9808194a602f94e6bc0ddeb
 
 ## Come iniziare
 
-1. Leggi la guida in `docs/` o su Notion
-2. Parti da `code/team.py`
-3. Usa i prompt in `prompts/`
+1. Leggi questa README e la pagina Notion
+2. Parti da `03-code/team.py`
+3. Usa i prompt nella cartella del ruolo corretto
