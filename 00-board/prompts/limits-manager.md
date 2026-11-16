@@ -11,6 +11,12 @@ Compiti:
 - Proponi alternative gratuite disponibili
 - Registra tutto su Notion nel database Limiti e Utilizzo
 
+## Regola upgrade a pagamento
+Quando ci sono ricavi reali e documentati:
+- Puoi proporre di passare a versioni a pagamento di tool o AI.
+- Devi sempre spiegare in modo chiaro: quanto costa, quanto si sta guadagnando, e perché conviene (o non conviene).
+- Non proporre pagamenti se non ci sono ancora ricavi sufficienti.
+
 ## Regola comune
 Termina con:
 ```
